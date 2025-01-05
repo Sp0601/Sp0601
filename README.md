@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sp0601
-- 👀 I’m interested in "web developpement" (i have a neocities: https://spzero6s-realm.neocities.org and
-  its in french)(actually idek what to do with that site)
+- 👀 I have a website (https://sp0601.github.io/sp06/)
 - 🌱 I’m currently learning html, css, python/pygame and maybe javascript.
 - 📫 How to reach me :
   - ahmedidrissighali@gmail.com
