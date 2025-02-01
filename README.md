@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sp0601
-- 👀 I have a website (https://sp0601.github.io/sp06/)
+- 👀 I have a website (https://sp06.dev)
 - 🌱 I’m currently learning html, css, python/pygame and maybe javascript.
 - 📫 How to reach me :
   - ahmedidrissighali@gmail.com
